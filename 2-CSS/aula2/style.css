@@ -1,0 +1,26 @@
+body{
+    background: rgb(0, 0, 0);
+    
+}
+
+.foto {
+    width:400px;
+}
+h1 {
+    color: rgb(177, 253, 0);
+}
+h2{
+    color: greenyellow;
+}
+h3{
+    color:rgb(10, 226, 107)
+}
+p{
+    color:goldenrod
+}
+ul{
+    color:blanchedalmond
+}
+a{
+    color: red
+}
